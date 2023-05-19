@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+}
+
+body {
+    background-color: #e5e5e5e5;
+
+}
+
+
+
+.container {
+    width: 375px;
+    background-color: #F4F4F4;
+    margin: 0 auto;
+    padding-top: 0px;
+
+
+}
+
+header {
+
+    width: 375px;
+    height: 66px;
+    background: #1B83E2;
+    margin-top: 100px;
+
+}
+
+h1 {
+
+
+    height: 18px;
+    left: 54px;
+    top: 24px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 18px;
+    align-items: center;
+    text-align: center;
+    color: #F4F4F4;
+    padding-top: 28px;
+    padding-left: 5px;
+}
+
+
+.corrente {
+    margin-top: 5px;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 113px;
+
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.option {
+    cursor: pointer;
+}
+
+.converterde {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+}
+
+.converter {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+}
+
+.valor {
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+}
+
+select {
+    margin-top: 5px;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 113px;
+
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: #555555;
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+
+
+
+input {
+    margin-top: 2px;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 113px;
+
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    cursor: pointer;
+}
+
+
+main {
+    padding: 24px 0 0 24px;
+}
+
+
+
+
+/* botao */
+
+
+button {
+    margin-top: 20px;
+    margin-bottom: 36px;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 374px;
+    background: #1B83E2;
+    border-radius: 25px;
+    cursor: pointer;
+    border: none;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: #F4F4F4;
+    
+}
+
+button:hover{
+    opacity:0.9 ;
+}
+
+button:active{
+    opacity: 0.7;
+}
+
+/* parte de baixo.
+*/
+
+section {
+    margin-top: 36 px;
+    margin-bottom: 32 px;
+    width: 327px;
+    height: 276px;
+    left: 24px;
+    top: 458px;
+    border: 1px solid #1B83E2;
+    border-radius: 4px;
+
+
+}
+
+.Brasil {
+    padding: 12px 44px 4px 140px;
+    cursor: pointer;
+}
+
+.usa {
+    padding: 1px 44px 4px 140px;
+    cursor: pointer;
+}
+
+.ceta {
+    padding: 1px 44px 4px 140px;
+    cursor: pointer;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.moeda {
+    padding-left: 147px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+}
+
+.Moeda {
+    padding-left: 140px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+}
+
+p {
+    padding-left: 123px;
+}
